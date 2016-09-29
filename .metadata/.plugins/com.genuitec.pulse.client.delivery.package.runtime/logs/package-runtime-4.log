@@ -1,0 +1,4 @@
+2016-9-19 19:46:48 com.genuitec.pulse.client.deliverypackage.runtime.internal.Activator initializeLoggers
+信息: Package starting up at Mon Sep 19 19:46:48 CST 2016
+2016-9-19 19:49:38 org.hibernate.eclipse.HibernatePlugin start
+信息: HibernatePlugin Started

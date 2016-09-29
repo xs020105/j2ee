@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jwch4"
+  id="myeclipse.1228434392203"
+  context-root="/jwch4"
+  j2ee-spec="1.4"
+  archive="jwch4.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

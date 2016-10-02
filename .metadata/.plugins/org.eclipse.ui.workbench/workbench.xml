@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="102" version="2.0">
+<workbench progressCount="103" version="2.0">
 <workbenchAdvisor/>
 <window height="768" maximized="true" width="1024" x="192" y="192">
 <fastViewData fastViewLocation="1024"/>
@@ -47,8 +47,8 @@
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="MyJsp.jsp" partName="MyJsp.jsp" path="E:/myworkspace/test/WebRoot/MyJsp.jsp" title="MyJsp.jsp" tooltip="test/WebRoot/MyJsp.jsp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test/WebRoot/MyJsp.jsp"/>
+<editor activePart="true" focus="true" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="exa2_6.jsp" partName="exa2_6.jsp" path="E:/myworkspace/jwch2/WebRoot/exa2_6.jsp" title="exa2_6.jsp" tooltip="jwch2/WebRoot/exa2_6.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/jwch2/WebRoot/exa2_6.jsp"/>
 </editor>
 </editors>
 <views>
@@ -464,95 +464,159 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/helloworld/src/Helloworld.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/firstjsp/WebRoot/first.jsp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/firstjsp/WebRoot/first.jsp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/firstjsp/WebRoot/index.jsp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/test/WebRoot/MyJsp.jsp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/test/WebRoot/MyJsp.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/body.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/jwch2/WebRoot/body.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/exa2_3.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/jwch2/WebRoot/exa2_3.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/exa2_5.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/exa2_6.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/jwch2/WebRoot/exa2_6.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/exa2_1.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/exa2_11.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/jwch2/WebRoot/exa2_11.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/exa2_1.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/body.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/exa2_1.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/exa2_10.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/exa2_2.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/exa2_3.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/exa2_4.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/exa2_5.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/jwch2/WebRoot/exa2_5.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/jwch2/WebRoot/exa2_6.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/jwch2/WebRoot/exa2_6.jsp"/>
 </editors>
-<item historyLabel="Helloworld.java" index="0">
+<item historyLabel="body.jsp" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Helloworld.java" index="0">
-<position info="not_deleted" x="109" y="0"/>
+<item historyLabel="body.jsp" index="1">
+<position info="not_deleted" x="191" y="0"/>
 </item>
-<item historyLabel="Helloworld.java" index="0">
-<position info="not_deleted" x="114" y="0"/>
+<item historyLabel="exa2_3.jsp" index="2">
+<position info="not_deleted" x="152" y="0"/>
 </item>
-<item historyLabel="first.jsp" index="1"/>
-<item historyLabel="first.jsp" index="1">
+<item historyLabel="exa2_3.jsp" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="exa2_5.jsp" index="4"/>
+<item historyLabel="exa2_6.jsp" index="5">
+<position info="not_deleted" x="104" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="6">
+<position info="not_deleted" x="194" y="28"/>
+</item>
+<item historyLabel="exa2_1.jsp" index="7"/>
+<item historyLabel="exa2_11.jsp" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="exa2_11.jsp" index="9">
+<position info="not_deleted" x="281" y="0"/>
+</item>
+<item historyLabel="exa2_1.jsp" index="10"/>
+<item historyLabel="body.jsp" index="11"/>
+<item historyLabel="exa2_1.jsp" index="12"/>
+<item historyLabel="exa2_10.jsp" index="13"/>
+<item historyLabel="exa2_1.jsp" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="exa2_2.jsp" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="exa2_3.jsp" index="15"/>
+<item historyLabel="exa2_4.jsp" index="16">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="exa2_5.jsp" index="17"/>
+<item historyLabel="exa2_4.jsp" index="16"/>
+<item historyLabel="exa2_5.jsp" index="17">
+<position info="not_deleted" x="74" y="0"/>
+</item>
+<item historyLabel="exa2_5.jsp" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="exa2_5.jsp" index="18">
+<position info="not_deleted" x="67" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="19">
+<position info="not_deleted" x="213" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="246" y="44"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="177" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="237" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="194" y="28"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="70" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="177" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="85" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="232" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="85" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="77" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="70" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="85" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="177" y="117"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="81" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="232" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
+<position info="not_deleted" x="81" y="0"/>
+</item>
+<item historyLabel="exa2_6.jsp" index="20">
 <position/>
 </item>
-<item historyLabel="first.jsp" index="2">
-<position info="not_deleted" x="816" y="0"/>
+<item historyLabel="exa2_6.jsp" index="20">
+<position/>
 </item>
-<item historyLabel="first.jsp" index="2">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="exa2_6.jsp" index="20">
+<position/>
 </item>
-<item historyLabel="first.jsp" index="1"/>
-<item historyLabel="first.jsp" index="1"/>
-<item historyLabel="index.jsp" index="3"/>
-<item historyLabel="first.jsp" index="1"/>
-<item historyLabel="index.jsp" index="3"/>
-<item historyLabel="first.jsp" index="1">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="exa2_6.jsp" index="20">
+<position/>
 </item>
-<item historyLabel="first.jsp" index="2">
-<position info="not_deleted" x="816" y="0"/>
+<item historyLabel="exa2_6.jsp" index="20">
+<position/>
 </item>
-<item historyLabel="first.jsp" index="2">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="exa2_6.jsp" index="20">
+<position/>
 </item>
-<item historyLabel="first.jsp" index="2">
-<position info="not_deleted" x="412" y="0"/>
-</item>
-<item historyLabel="first.jsp" index="2">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="MyJsp.jsp" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="MyJsp.jsp" index="5">
-<position info="not_deleted" x="785" y="0"/>
-</item>
-<item historyLabel="MyJsp.jsp" index="4">
-<position info="not_deleted" x="785" y="0"/>
-</item>
-<item historyLabel="MyJsp.jsp" index="5">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="MyJsp.jsp" index="5">
-<position info="not_deleted" x="298" y="511"/>
-</item>
-<item historyLabel="MyJsp.jsp" index="5">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="MyJsp.jsp" index="5">
-<position info="not_deleted" x="229" y="0"/>
-</item>
-<item historyLabel="MyJsp.jsp" index="5">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="MyJsp.jsp" index="5">
-<position info="not_deleted" x="789" y="0"/>
-</item>
-<item historyLabel="MyJsp.jsp" index="4"/>
-<item historyLabel="MyJsp.jsp" index="4"/>
-<item historyLabel="Helloworld.java" index="0">
-<position info="not_deleted" x="114" y="0"/>
-</item>
-<item historyLabel="MyJsp.jsp" index="4">
-<position info="not_deleted" x="377" y="0"/>
-</item>
-<item historyLabel="MyJsp.jsp" index="5">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="MyJsp.jsp" index="5">
-<position info="not_deleted" x="231" y="0"/>
-</item>
-<item active="true" historyLabel="MyJsp.jsp" index="5">
-<position info="not_deleted" x="0" y="0"/>
+<item active="true" historyLabel="exa2_6.jsp" index="20">
+<position/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -571,6 +635,33 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="exa2_6.jsp" tooltip="jwch2/WebRoot/exa2_6.jsp">
+<persistable path="/jwch2/WebRoot/exa2_6.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="exa2_5.jsp" tooltip="jwch2/WebRoot/exa2_5.jsp">
+<persistable path="/jwch2/WebRoot/exa2_5.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="exa2_4.jsp" tooltip="jwch2/WebRoot/exa2_4.jsp">
+<persistable path="/jwch2/WebRoot/exa2_4.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="exa2_3.jsp" tooltip="jwch2/WebRoot/exa2_3.jsp">
+<persistable path="/jwch2/WebRoot/exa2_3.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="exa2_2.jsp" tooltip="jwch2/WebRoot/exa2_2.jsp">
+<persistable path="/jwch2/WebRoot/exa2_2.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="exa2_10.jsp" tooltip="jwch2/WebRoot/exa2_10.jsp">
+<persistable path="/jwch2/WebRoot/exa2_10.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="exa2_1.jsp" tooltip="jwch2/WebRoot/exa2_1.jsp">
+<persistable path="/jwch2/WebRoot/exa2_1.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="exa2_11.jsp" tooltip="jwch2/WebRoot/exa2_11.jsp">
+<persistable path="/jwch2/WebRoot/exa2_11.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="body.jsp" tooltip="jwch2/WebRoot/body.jsp">
+<persistable path="/jwch2/WebRoot/body.jsp"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="MyJsp.jsp" tooltip="test/WebRoot/MyJsp.jsp">
 <persistable path="/test/WebRoot/MyJsp.jsp"/>
 </file>

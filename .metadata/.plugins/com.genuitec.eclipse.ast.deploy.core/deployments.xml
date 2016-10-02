@@ -2,5 +2,5 @@
 <deployments>
   <deployment alt-context-root="" context-root="/firstjsp" deployment-path="E:/apache-tomcat-7.0.70/webapps/firstjsp" project-name="firstjsp" server-id="tomcat7Server" state="DEPLOYED" type="WEB"/>
   <deployment alt-context-root="" context-root="/test" deployment-path="E:/apache-tomcat-7.0.70/webapps/test" project-name="test" server-id="tomcat7Server" state="DEPLOYED" type="WEB"/>
-  <deployment context-root="/jwch2" deployment-path="E:/apache-tomcat-7.0.70/webapps/jwch2" project-name="jwch2" server-id="tomcat7Server" state="DEPLOYED" type="WEB"/>
+  <deployment alt-context-root="" context-root="/jwch2" deployment-path="E:/apache-tomcat-7.0.70/webapps/jwch2" project-name="jwch2" server-id="tomcat7Server" state="DEPLOYED" type="WEB"/>
 </deployments>
